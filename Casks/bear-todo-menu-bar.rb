@@ -1,6 +1,6 @@
 cask "bear-todo-menu-bar" do
   version "1.5.0"
-  sha256 "d3f0e5c7c0f06cb196f0d1308f0b42efc582bcb573e9eed69f7a29dde3cb596a"
+  sha256 "0a386e7002b57682373090302833851f31ffdad59b207a467e71080b2545019e"
 
   url "https://github.com/ECHOUniverse/BearTodoMenuBar/releases/download/v#{version}/BearTodoMenuBar.zip"
   name "BearTodoMenuBar"
